@@ -317,11 +317,11 @@ function myFunction2() {
 }
 
 function myFunction3() {
-  frontend.src = "assets/img/pdp.png";
+  frontend.src = "assets/img/ab.png";
   b4.style.color = "#ef946c";
 }
 
 function myFunction4() {
-  frontend.src = "assets/img/ab.png";
+  frontend.src = "assets/img/pdp.png";
   b5.style.color = "#ef946c";
 }
