@@ -3051,3 +3051,17 @@ background: transparent;
 }
 
 
+
+.mybutton {
+  margin-top: 0px;
+  background: linear-gradient(196deg, #0dcaf0, #0d6efd);
+  border-radius: 55px;
+  box-shadow: 13px 9px 0px #19191a;
+  padding: 20px 40px;
+  border: 0px solid #EF946C;
+  width: fit-content;
+  color: white;
+  transform: rotate3d(53, 17, 7, 345deg);
+  font-size: 12px;
+  transition: 0.5s ease-in;
+}
