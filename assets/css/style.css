@@ -4,8 +4,8 @@
 }
 
 body {
-  color: #ef946c;
-    font-family: 'Philosopher', sans-serif;
+  color: #4ca3ff;
+  font-family: 'Poppins', sans-serif;
   background-color: #1F2330;
   
 }
@@ -25,7 +25,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
 
 }
 
@@ -56,7 +56,7 @@ section {
   line-height: 42px;
   font-weight: 700;
   color: #323232;
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 @media (max-width: 768px) {
   .section-header p {
@@ -171,7 +171,7 @@ section {
   font-weight: 700;
   letter-spacing: 1px;
   color: #012970;
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin-top: 3px;
 }
 
@@ -203,7 +203,7 @@ section {
     font-weight: 500;
     color: #ffffff;
     white-space: nowrap;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     transition: 0.3s;
     text-decoration: none;
 }
@@ -213,7 +213,7 @@ section {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #ef946c;
+  color: #3587ff;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
     background: transparent;
@@ -404,7 +404,7 @@ section {
   box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
 }
 .hero .btn-get-started span {
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -488,7 +488,7 @@ section {
   box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
 }
 .about .btn-read-more span {
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -559,7 +559,7 @@ section {
 .counts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 14px;
 }
 
@@ -819,7 +819,7 @@ section {
   font-size: 36px;
   color: #444444;
   font-weight: 600;
-  font-family: 'mazzard';
+  font-family: 'Poppins', sans-serif;
 }
 .pricing .price sup {
   font-size: 20px;
@@ -858,7 +858,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 400;
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 600;
   transition: 0.3s;
   border: 1px solid #4154f1;
@@ -1961,14 +1961,14 @@ section {
   font-weight: 700;
   letter-spacing: 1px;
   color: #012970;
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin-top: 3px;
 }
 .footer .footer-top .footer-info p {
   font-size: 16px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 .footer .footer-top .social-links a {
   font-size: 20px;
@@ -2006,7 +2006,7 @@ section {
 .footer .footer-top .footer-links ul li {
   padding: 10px 0;
   display: flex;
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   align-items: center;
 }
@@ -2041,7 +2041,7 @@ section {
     margin: 0;
     font-size: 48px;
     font-weight: 600;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
 }
 
@@ -2051,7 +2051,7 @@ section {
 px
  0 0 0;
     font-size: 18px;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .footer .footer-top .social-links a {
@@ -2108,14 +2108,14 @@ px
 .headersnew {
     font-size: 24px;
     font-weight: 700;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
     padding-left: 13px;
 }
 
 .olclass {
     padding-left: 27px;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
 }
 
@@ -2138,7 +2138,7 @@ px
 .nameclass {
     font-weight: 600;
     color: #323232;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .myclass{
@@ -2154,8 +2154,7 @@ px
     padding: 20px 40px;
     border: 0px;
     color: white;
-    font-size: 12px;
-    box-shadow: 1px 4px 22px #373737;
+    font-size: 9px;
 }
 
 
@@ -2166,7 +2165,7 @@ px
     font-size: 20px;
     font-weight: 100;
     font-style: normal;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
 }
 
@@ -2176,7 +2175,7 @@ px
     font-size: 35px;
     font-weight: 700;
     font-style: normal;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
 }
 
@@ -2197,7 +2196,7 @@ px
     font-size: 16px;
     font-weight: 100;
     font-style: normal;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
     text-align: center;
 }
@@ -2209,7 +2208,7 @@ px
     font-size: 30px;
     font-weight: 600;
     font-style: normal;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
     margin-top: -80px;
     text-align: center;
@@ -2241,14 +2240,14 @@ px
 
 .italics{
   color: #48B4B4;
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Poppins', sans-serif;
     font-weight: 700;
 
 }
 
 .italics1 {
     color: #323232;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 15px;
 }
@@ -2300,7 +2299,7 @@ px
   font-size: 16px;
     font-weight: 100;
     font-style: normal;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
 }
 
@@ -2323,7 +2322,7 @@ px
   font-size: 16px;
     font-weight: 100;
     font-style: normal;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
 }
 
@@ -2454,7 +2453,7 @@ margin-top: -80px;
     max-width: 100%;
     text-align: center;
     font-size: 24px;
-    font-family: 'Exo';
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
     color: #27ae60;
     margin-top: 16px;
@@ -2502,19 +2501,21 @@ margin-top: -80px;
 
 .textsallhome {
     margin: 4px;
-    font-size: 20px;
+    font-size: 60px;
+    word-spacing: 0px;
     font-weight: 700;
     font-style: normal;
-    font-family: 'Philosopher', sans-serif;
-    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    color: #3787ff;
     margin-top: 0px;
 }
 
 
 .textsallhome1 {
-    font-size: 30px;
-    font-weight: 800;
-    font-family: 'Philosopher', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 32px;
     color: #ffffff;
 }
 
@@ -2524,7 +2525,7 @@ margin-top: -80px;
     font-size: 30px;
     font-weight: 600;
     font-style: normal;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
     margin-top: -80px;
     text-align: center;
@@ -2538,7 +2539,7 @@ margin-top: -80px;
     font-size: 16px;
     font-weight: 100;
     font-style: normal;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #323232;
     text-align: center;
 }
@@ -2611,7 +2612,7 @@ background-size:cover;
     position: relative;
     text-align: left;
     padding-bottom: 7px;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 
@@ -2828,7 +2829,7 @@ background: transparent;
 
 .texting{
   font-size: x-large;
-    font-family: 'Exo', sans-serif;
+  font-family: 'Poppins', sans-serif;
     font-weight: 700;
     margin-top: 10px;
 }
@@ -2840,12 +2841,12 @@ background: transparent;
     line-height: 42px;
     font-weight: 800;
     color: #323232;
-    font-family: 'Exo', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 
 .working{
-  font-family: 'Mulish';
+  font-family: 'Poppins', sans-serif;
     font-weight: 500;
     margin-top: 20px;
 }
@@ -2882,7 +2883,7 @@ background: transparent;
     max-width: 90%;
     text-align: center;
     font-size: 16px;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     color: #323232;
     margin-top: 16px;
@@ -2945,3 +2946,108 @@ background: transparent;
 .normal-text{
   color: white;
 }
+
+
+
+.myanimation{
+  transition: 3s ease-in !important;
+  transform: scale(30px);
+}
+
+@keyframes myani {
+  0%{
+    transform: rotateX(360deg);
+  }
+  30%{
+    transform: rotateX(30deg);
+  }
+  60%{
+    transform: rotateX(60deg);
+  }
+  0%{
+    transform: rotateX(360deg);
+  }
+}
+
+#handsome{
+  size: 200px;
+}
+
+
+@keyframes example {
+  0%   { left:0px; top:350px;}
+  25%   { left:550px; top:250px;}
+  100% {left:760px; top:150px;}
+}
+
+.animatethis {
+  position: absolute;
+  animation: example infinite;
+  animation-duration: 30s;
+  max-width: 100%;
+  overflow-x: hidden;
+  top: 267px;
+  left: 300px;
+}
+
+
+
+@keyframes example1 {
+  0%   { left:100px; top:450px;}
+  25%   { left:300px; top:550px;}
+  100% {left:-200px; top:150px;}
+}
+
+.animatethis1 {
+  position: absolute;
+  animation: example1 infinite;
+  animation-duration: 30s;
+  max-width: 100%;
+  overflow-x: hidden;
+  top: 267px;
+  left: 300px;
+}
+
+
+@keyframes example2 {
+  0%   { left:-100px; top:-450px;}
+  25%   { left:800px; top:250px;}
+  50%   { left:200px; top:550px;}
+  100% {left:400px; top:450px;}
+}
+
+.animatethis2 {
+  position: absolute;
+  animation: example2 infinite;
+  animation-duration: 30s;
+  max-width: 100%;
+  overflow-x: hidden;
+  top: 267px;
+  left: 300px;
+}
+
+
+.mybutton:hover {
+  margin-top: 0px;
+  background: linear-gradient(395deg, #00d4ff, #0d6efd);
+  border-radius: 55px;
+  box-shadow: 13px 9px 0px #19191a;
+  padding: 20px 40px;
+  border: 0px solid #EF946C;
+  width: fit-content;
+  color: white;
+  transform: rotate3d(53, 17, 34, 347deg);
+  font-size: 12px;
+}
+
+
+
+
+.mine{
+  text-align: left;
+    font-size: 13px;
+    word-spacing: 1px;
+    line-height: 27px;
+}
+
+

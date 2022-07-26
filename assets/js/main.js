@@ -298,7 +298,7 @@ let b5 = document.getElementById("b5");
 
 function myFunction() {
   frontend.src = "assets/img/samde.png";
-  b2.style.color = "#ef946c";
+  b2.style.color = "#589cff";
 
 
 }
@@ -306,22 +306,27 @@ function myFunction() {
 
 function myFunction1() {
   frontend.src = "assets/img/mockup.png";
-  b1.style.color = "#ef946c";
+  b1.style.color = "#589cff";
 
 }
 
 
 function myFunction2() {
   frontend.src = "assets/img/larg.png";
-  b3.style.color = "#ef946c";
+  b3.style.color = "#589cff";
 }
 
 function myFunction3() {
   frontend.src = "assets/img/ab.png";
-  b4.style.color = "#ef946c";
+  b4.style.color = "#589cff";
 }
 
 function myFunction4() {
   frontend.src = "assets/img/pdp.png";
-  b5.style.color = "#ef946c";
+  b5.style.color = "#589cff";
 }
+
+
+
+// handsome1 = document.getElementById("handsome");
+// handsome1.color = "red";
