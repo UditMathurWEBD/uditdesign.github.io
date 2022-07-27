@@ -4,7 +4,7 @@
 }
 
 body {
-  color: #4ca3ff;
+  color: #ffc107;
   font-family: 'Poppins', sans-serif;
   background-color: #1F2330;
   
@@ -3050,3 +3050,9 @@ background: transparent;
     line-height: 27px;
 }
 
+.pillar{
+  padding: 15px 30px;
+    background: linear-gradient(45deg, #198754, #005146);
+    border-radius: 33px;
+    border: 0px;
+}

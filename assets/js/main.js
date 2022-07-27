@@ -322,7 +322,7 @@ function myFunction3() {
 }
 
 function myFunction4() {
-  frontend.src = "assets/img/pdp.png";
+  frontend.src = "assets/img/pdp.svg";
   b5.style.color = "#589cff";
 }
 
